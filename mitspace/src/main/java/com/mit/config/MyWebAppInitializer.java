@@ -21,5 +21,7 @@ public class MyWebAppInitializer
    @Override
    protected String[] getServletMappings() {
       return new String[] { "/" };
+      
+      
    }
 }
