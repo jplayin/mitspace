@@ -11,6 +11,7 @@ public class MyWebAppInitializer
    @Override
    protected Class<?>[] getRootConfigClasses() {
       return new Class[] {};
+      //System.out
    }
 
    @Override
